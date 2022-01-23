@@ -1,8 +1,6 @@
-# Introduction
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/acharya619/shubham.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skilled DevOps Engineer with 2 years of hands on experience in automation and optimisation in mission critical deployments in production. Proficient in developing CI/CD pipelines and Infrastructure orchestration with IaaC.
 
 ### Markdown
 
