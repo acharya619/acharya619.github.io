@@ -1,2 +1,11 @@
-![profile_pic](/profile_pic.jpeg)
+title: Shubham Acharya
+logo: "/profile_pic.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ DevOps Engineer
+  <br><br>
+  <a href="mailto:acharya1996online@gmail.com">acharya1996online@gmail.com</a>
+  <br>
+  <a href="linkedin.com/in/shubham-acharya">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/acharya619">Gihub</a> 
 theme: jekyll-theme-minimal
