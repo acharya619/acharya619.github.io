@@ -1,10 +1,10 @@
 title: Shubham Acharya
 logo: "/profile_pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- DevOps Engineer
+ ###DevOps Engineer###
   <br><br>
   <a href="mailto:acharya1996online@gmail.com">acharya1996online@gmail.com</a>
   <br>
-  <a href="linkedin.com/in/shubham-acharya">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/shubham-acharya">LinkedIn Profile</a>
   <br>
 theme: jekyll-theme-minimal
