@@ -7,7 +7,7 @@ Skilled DevOps Engineer with 2 years of hands on experience in automation and op
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJenkins_logo.svg&psig=AOvVaw3aJAYnP7SLgtRMXuoHe44J&ust=1643011851761000&source=images&cd=vfe&ved=2ahUKEwipq8eftsf1AhUBQmwGHUQzBGMQjRx6BAgAEAk" alt="jenkins" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
@@ -18,28 +18,32 @@ Skilled DevOps Engineer with 2 years of hands on experience in automation and op
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **DevOps Engineer**
+### Oracle India Private Limited
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+- Experienced in Software Development Lifecycle phases in an Agile Environment.
+- Hands-on experience with certifications in Major Cloud Providers like AWS and OCI.
+- Developed and maintained automated pipelines with Jenkins.
+- Maintained Git workflows for version control (SCM).
+- Feature additions to Python based cloud automation framework named Blueprints.
+- Infrastructure orchestration for Worldwide deployments in Cloud with Shepherd (Terraform based framework).
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Expert Q&A**
+### Chegg Inc.
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Helped students to understand complex problems and their solutions.
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Maulana Azad NAtional Institute of technology (NIT Bhopal)**
+### MTech Computer Networking (2018- 2020)
+GPA 8.60
+
+### **Government Engineering College (GEC Raipur)**
+### BE in Computer Science Engineering (2014- 2018)
+GPA 7.90
 
 ---
 
