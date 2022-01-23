@@ -7,7 +7,7 @@ Skilled DevOps Engineer with 2 years of hands on experience in automation and op
 ## Skills
 
 <p align='left'>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJenkins_logo.svg&psig=AOvVaw3aJAYnP7SLgtRMXuoHe44J&ust=1643011851761000&source=images&cd=vfe&ved=2ahUKEwipq8eftsf1AhUBQmwGHUQzBGMQjRx6BAgAEAk" alt="jenkins" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
