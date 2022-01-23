@@ -7,11 +7,11 @@ Skilled DevOps Engineer with 2 years of hands on experience in automation and op
 ## Skills
 
 <p align='left'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png' alt="python" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg' height='30' width='auto' alt="linux">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" alt="docker" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/>
 </p>
 
 ---
@@ -31,18 +31,18 @@ Skilled DevOps Engineer with 2 years of hands on experience in automation and op
 ### **Expert Q&A**
 ### Chegg Inc.
 
-Helped students to understand complex problems and their solutions.
+- Helped students to understand complex problems and their solutions.
 
 ---
 
 ## Education
 
 ### **Maulana Azad NAtional Institute of technology (NIT Bhopal)**
-### MTech Computer Networking (2018- 2020)
+### M.Tech in Computer Networking (2018- 2020)
 GPA 8.60
 
 ### **Government Engineering College (GEC Raipur)**
-### BE in Computer Science Engineering (2014- 2018)
+### B.E. in Computer Science Engineering (2014- 2018)
 GPA 7.90
 
 ---
